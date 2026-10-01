@@ -25,13 +25,13 @@ After cleaning, units × price = revenue on 100% of rows.
 1. **Revenue grew 7.0% but units only 3.5%:** customers are paying more per item.
 2. **TVs are trading up:** premium TVs ($1,000+) grew 14% in units while budget TVs fell 25%. TV plans need to be built by model, not by category total.
 
-   ![TV mix shift](tv_mix_shift.png)
+   ![TV mix shift](images/tv_mix_shift.png)
 
 3. **Stockouts jump on Black Friday:** 3% of weeks normally vs. about 11% on Black Friday weeks.
 4. **Promotions are often overstated:** Gaming looked like the most promo-responsive category, but that was Black Friday inflating it. Outside the holidays it was the least responsive.
 5. **Forecast:** adjusting last year's sales for the current trend cut forecast error from 10% to 8.5%. Q4 2026 outlook: Headphones and Smartphones about +11%, TV units about −9%.
 
-![Weekly revenue](weekly_revenue.png)
+![Weekly revenue](images/weekly_revenue.png)
 
 ## Recommendations
 - **Reduce:** Smart 32" HD, VR Vision Headset, Gaming Chair Apex and StudioRef Wired (25–54 weeks of supply). Cancel open orders and mark down before the holiday.
@@ -39,7 +39,7 @@ After cleaning, units × price = revenue on 100% of rows.
 - **Don't expedite laptops:** they only look low because back-to-school inflated recent sales.
 - **Plan inventory against the forecast, not recent sales.**
 
-![Inventory actions](inventory_actions.png)
+![Inventory actions](images/inventory_actions.png)
 
 ## Limitations
 - Simulated data.
